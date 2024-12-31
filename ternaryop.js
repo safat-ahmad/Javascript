@@ -1,6 +1,6 @@
  
     let a = 10;
     let c;
-    (a >= 10)? c = "true" : c = "false"
+    c = "This is " +(a >= 100? "true" : "false");
 
 console.log(c)
