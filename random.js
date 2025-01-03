@@ -5,9 +5,9 @@ const randumno= random(100);
 console.log(Math.random()*randumno + 1000);
 
 
-function randomNo(min, max){
-return min,max;
+function randomNo(min){
+return min;
 }
-const x = randomNo(1,100)
+const x = randomNo(100)
 console.log(Math.random(x) +10);
 
