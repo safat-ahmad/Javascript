@@ -9,5 +9,5 @@ function randomNo(min, max){
 return min,max;
 }
 const x = randomNo(1,100)
-console.log(Math.random(x) +100);
+console.log(Math.random(x) +10);
 
