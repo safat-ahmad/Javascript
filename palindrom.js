@@ -9,5 +9,5 @@ function palindrome(str){
     return true;
 }
 
-const isPalindrom = palindrome('12343211');
+const isPalindrom = palindrome('123456543211');
 console.log("isPalindrom", isPalindrom);
